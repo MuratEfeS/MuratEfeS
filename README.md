@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuratEfeS 
-- 👀 I’m interested in Java and Website programing.
-- 🌱 I’m currently learning Java + HTML + CSS 
+- 👀 I’m interested in Java .
+- 🌱 I’m currently learning Java + JavaScript
 - 📫 How to reach me Discord(666_99)
 
 <!---
